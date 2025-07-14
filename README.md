@@ -8,3 +8,7 @@ Some description text!
 Watch Tutorial on YouTube
 ## Subheader 2
 Commit 4
+
+## Local Development
+
+Open index.html in your browser.
